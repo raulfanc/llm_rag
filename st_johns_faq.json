@@ -1,0 +1,83 @@
+[
+    {
+      "organization": "Hato Hone St John",
+      "documents": [
+        {
+          "text": "St John is a registered charity (Charitable Trust CC35255). Any donation made over $5 is tax deductible. Please note that Ambulance Membership is a subscription to a service and is not tax deductible.",
+          "section": "donate",
+          "question": "What is your charity number?"
+        },
+        {
+          "text": "Donors are critical to our work here at Hato Hone St John. Without them, we simply wouldn’t be able to help as many people as we do. Join Team Green: You can join team of dedicated donors who provide critical monthly backup to Hato Hone St John frontline services. Your dependable support ensures that our caring frontline teams can do their very best for you, your family and your community. Click here to join Team Green now. Make a one-off donation: You can also make a one-off donation to Hato Hone St John. Your donation will help ensure people across New Zealand have access to an ambulance when they need it most. Click here to donate.",
+          "section": "donate",
+          "question": "How can I support / donate to you?"
+        },
+        {
+          "text": "Donations in lieu of flowers and other ‘in memory’ gifts are gratefully accepted by Hato Hone St John. By clicking on our Donate button you will be directed to our online donation facility, and asked to select what you would like your donation to support. Simply select ‘Donation in memory’. You’ll also be able to enter in details about the person you are remembering.",
+          "section": "donate",
+          "question": "If I want people to give a donation to St John in memory of a friend or family member what do I do?"
+        },
+        {
+          "text": "If you already have a Will that does not include a bequest to us, but would like to include one, you do not have to prepare an entirely new will. A simple modification to your existing Will can be made by adding a codicil (a codicil is a supplement to a Will that is intended to alter or modify it). We recommend that your legal advisor help you when making changes to your existing Will to make sure it is legally binding. If you would like to discuss leaving a bequest to us please contact our Customer Service Centre. Please note that any bequest inquiries will be treated in the strictest confidence.",
+          "section": "donate",
+          "question": "How can I leave a bequest?"
+        },
+        {
+          "text": "If you need an ambulance in a non-accident medical emergency such as a stroke or heart attack, there is usually a fee of $98 for the service. With an Ambulance Membership, these fees are waived. An Ambulance Membership gives you peace of mind that in a medical emergency you can simply concentrate on your health and not the bill. Please note: An Ambulance Membership does not guarantee an ambulance will respond to every call. We triage all calls and ensure the right level of care is provided. If you phone for something urgent or potentially life-threatening, our emergency medical dispatchers will arrange an ambulance to get to you as soon as possible. Find out more about what happens when you call 111 here.",
+          "section": "membership",
+          "question": "What is the Ambulance Membership?"
+        },
+        {
+          "text": "By joining Ambulance Membership you get your ambulance fees waived if you are treated by one of our ambulance officers and/or transported because of a medical emergency. Find out more here about how we assess what kind of help you need when you call 111.",
+          "section": "membership",
+          "question": "What benefit is it to me to have an ambulance membership?"
+        },
+        {
+          "text": "There are three membership options available: Individuals pay $55 a year, A joint subscription is $75 a year for two people living permanently at the same address, Households pay $90 a year, which covers three or more people living permanently at the same address. All membership option prices include GST. Membership lasts for 12 months and starts from the day of payment. Visit the Ambulance Membership page to find out more.",
+          "section": "membership",
+          "question": "How much does it cost to get an Ambulance Membership?"
+        },
+        {
+          "text": "No, Ambulance Membership fees are not tax deductible as is a subscription for a service, not a donation. The IRD makes a distinction between making donations to a charity and paying subscription fees. Donations of $5 or more made on top of your membership are tax deductible and a receipt will be sent with your membership information.",
+          "section": "membership",
+          "question": "Is my Ambulance Membership fee tax deductible?"
+        },
+        {
+          "text": "Residents of retirement villages, who are in independent living accommodation, are eligible to subscribe to and benefit from an Ambulance Membership. If you are in rest home level care or have an MSD accredited medical alarm (including a St John Medical Alarm) your ambulance part charges may be paid on your behalf by your service provider. In this case you may not need an Ambulance Membership. Groups or businesses may arrange to purchase Ambulance Memberships on behalf of their employees. The membership would cover the employee - wherever they were, not just while at school or at work.",
+          "section": "membership",
+          "question": "Can a rest-home or business join Ambulance Membership?"
+        },
+        {
+          "text": "NEW CUSTOMERS: Sign up online using a debit/credit card, or by using Account2Account (bank transfer), or contact our Customer Service Centre.",
+          "section": "payment",
+          "question": "How can I make payment?"
+        },
+        {
+          "text": "Renew online using a credit card or by using Account2Account, or by contacting our Customer Service Centre, or via internet banking > Set up a bill payment to Hato Hone St John 12 3244 0023915 50 and include your membership number and Principal name in reference and particulars. Here’s more information about the payment options available for you.",
+          "section": "payment",
+          "question": "How can I renew my membership?"
+        },
+        {
+          "text": "We provide ambulance services all over New Zealand excluding Wellington and the Wairarapa; these areas are covered by Wellington Free Ambulance. A St John Ambulance Membership will cover any ambulance service we provide. Visit the Ambulance Membership page on this site to find out more.",
+          "section": "membership",
+          "question": "Is the Ambulance Membership available everywhere in NZ?"
+        },
+        {
+          "text": "Click here for frequently answered questions about Team Green and our fundraisers.",
+          "section": "fundraisers",
+          "question": "I want to know more about Team Green and our fundraisers"
+        },
+        {
+          "text": "To update your membership type, change members, or if you have any other enquiries, please contact us prior to renewing. Call 0800 ST JOHN (0800 785 646) or visit the Contact Us page.",
+          "section": "membership",
+          "question": "How can I add new members to my existing membership or change my membership type?"
+        },
+        {
+          "text": "No problem! If you have your Ambulance Membership renewal letter or email handy, you will find your Customer ID located in the top-right hand corner or in the personal details section. If you don't have a copy of this, please contact us by calling 0800 ST JOHN (0800 785 646) or visit the Contact Us page.",
+          "section": "membership",
+          "question": "I can't remember my Customer ID - where do I find this?"
+        }
+      ]
+    }
+  ]
+  
